@@ -6,10 +6,11 @@ POST http://localhost:8080/shopping-items
 Content-Type: application/json
 
 {
-    "name": "pasta"
+    "name": "pav bhaji"
 }
 
 
 ### remove a shoppingitem
 
 DELETE http://localhost:8080/shopping-items/a57ac6c8-2efb-48d9-8bdc-e4d54073f138
+
